@@ -28,6 +28,8 @@ npm run dev
 npm run build
 ```
 
+### run restAPI server
+
 ```sh
-npm run server to RestAPI server
+npm run server 
 ```
